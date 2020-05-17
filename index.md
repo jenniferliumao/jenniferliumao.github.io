@@ -9,3 +9,5 @@ My fascination with data analytics began while working on my last Ph.D. project.
 
 I’ve worked as a data scientist in two internship projects. One of the projects that I am most proud of is working on a team to improve the prediction of airline revenue for a startup company [FLYR](https://www.flyrlabs.com/). My focus is on the development of a multi-step machine learning model that integrates time-series clustering and Vector Autoregression algorithm into the prediction process. This new approach improves the prediction by 16%. I enjoyed working with a team that had diverse skills, from domain experts to data engineers. 
 
+# Data Science Projects
+## 
