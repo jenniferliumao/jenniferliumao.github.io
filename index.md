@@ -12,4 +12,4 @@ I’ve worked as a data scientist in two internship projects. One of the project
 # Data Science Projects
 ## Gender Pay Gap In San Francisco Bay Area
 ![title]
-(https://github.com/jenniferliumao/jenniferliumao.github.io/blob/master/gendergap.png)
+(gendergap.png)
