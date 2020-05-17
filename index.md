@@ -10,8 +10,9 @@ My fascination with data analytics began while working on my last Ph.D. project.
 I’ve worked as a data scientist in two internship projects. One of the projects that I am most proud of is working on a team to improve the prediction of airline revenue for a startup company [FLYR](https://www.flyrlabs.com/). My focus is on the development of a multi-step machine learning model that integrates time-series clustering and Vector Autoregression algorithm into the prediction process. This new approach improves the prediction by 16%. I enjoyed working with a team that had diverse skills, from domain experts to data engineers. 
 
 # Data Science Projects
-## Gender Pay Gap In San Francisco Bay Area: Is gender pag gradually eliminated in tech industry?
+## 1. Gender Pay Gap In San Francisco Bay Area: 
 
+### Is gender gap gradually eliminated in tech industry?
 Although the gender pay gap in San Francisco Bay Area is slightly better than the United States as a whole, Santa Clara County, as the center of tech companies, has the largest gender pay gap in the Bay Area and women make up only very small percentage among the workers in tech industry; tech companies in San Francisco Bay Area still need to go a long way towards overcoming the gender inequality.
 
 In this EDA project, we explored the datasets from American community survey, contianing the yearly median earning for female and male in the past 60 years and the employed population and earining by gender and occupation in various regions including US, CA and three main counties in SF Bay area. Then we appplied ggplot to explain what we found and drew some interesting conclusions.
