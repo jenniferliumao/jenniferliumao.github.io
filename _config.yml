@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Peng Liu
 logo: /images/mylogo.png
 description: MS student in Data Science at University of San Francisco
+show_downloads: True
