@@ -1,5 +1,5 @@
 # About Me 
-[my LinkedIn!](https://www.linkedin.com/in/peng-liu-188053130/)
+[My LinkedIn Profile](https://www.linkedin.com/in/peng-liu-188053130/)
 
 Hi this is Peng!
 
