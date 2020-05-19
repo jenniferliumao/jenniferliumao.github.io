@@ -26,9 +26,9 @@ Implemented core machine learning algorithms from scratch with comparable perfor
 - [Naive Bayes](https://github.com/jenniferliumao/naive_bayes_from_scratch)
 - [Kmeans Clustering and its applications](https://github.com/jenniferliumao/clustering_from_scratch_in_Python)
 
-As an example of color compression, here is an original color image (left) and a compressed version that uses only 32 colors (right):
+    As an example of color compression, here is an original color image (left) and a compressed version that uses only 32 colors (right):
 
-<img src="/images/mylogo.png"  width="200" height="200"><img src="/images/32colorPL.png"  width="200" height="200">
+    <img src="/images/mylogo.png"  width="200" height="200"> <img src="/images/32colorPL.png"  width="200" height="200">
 
 
 ## EDA: Gender Pay Gap In San Francisco Bay Area: 
