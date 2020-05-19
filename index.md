@@ -1,6 +1,7 @@
 # About Me 
 [View My LinkedIn Profile](https://www.linkedin.com/in/peng-liu-188053130/)
-email: pliu25@usfca.edu
+
+📧email: pliu25@usfca.edu
 
 Hi this is Peng!
 
