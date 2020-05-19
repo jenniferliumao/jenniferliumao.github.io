@@ -1,4 +1,9 @@
 # About Me 
+**_Education:_**
+- M.S. in Data Science, University of San Francisco
+- Ph.D. in Mechanical Engineering, National University of Singapore
+- Bachelor in Engineering, Peking University
+
 [View My LinkedIn Profile](https://www.linkedin.com/in/peng-liu-188053130/)
 
 📧email: pliu25@usfca.edu
