@@ -1,5 +1,6 @@
 # About Me 
 [View My LinkedIn Profile](https://www.linkedin.com/in/peng-liu-188053130/)
+email: pliu25@usfca.edu
 
 Hi this is Peng!
 
@@ -11,6 +12,9 @@ I’ve worked as a data scientist in two internship projects. One of the project
 
 # Data Science Projects
 ## Machine Learning Algorithms from scratch in Python
+
+Implemented core machine learning algorithms from scratch with comparable performance compared to scikit-learn packages, including Ridge and Lasso Regression, Naive Bayes, Decision Tree, Random Forest and clusterings.
+
 - [Linear regression with regularization](https://github.com/jenniferliumao/Linear-Regression-with-Regularization-from-Scratch-in-Python)
 - [Naive Bayes](https://github.com/jenniferliumao/naive_bayes_from_scratch)
 
